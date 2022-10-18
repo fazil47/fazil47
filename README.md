@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Fazil 👋
+
+[![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazil47&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazil47&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fazil47/fazil47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
