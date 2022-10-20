@@ -1,20 +1,20 @@
 ### Hi there, I'm Fazil 👋
 
-[![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazil47&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m interested in web technologies and 3D
+- 🌱 I’m currently learning Babylon.js and Express.js
+- 😄 Pronouns: he/him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazil47&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazil47&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fazil47/fazil47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m interested 
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: 
+- 😄 Pronouns: he/him
 -->
