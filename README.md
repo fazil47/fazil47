@@ -1,7 +1,7 @@
 ### Hi there, I'm Fazil 👋
 
 - 🔭 I’m interested in web technologies and 3D
-- 🌱 I’m currently learning Babylon.js and Express.js
+- 🌱 I’m currently learning Babylon.js and Rust
 - 😄 Pronouns: he/him
 
 [![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazil47&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
