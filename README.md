@@ -1,7 +1,7 @@
 ### Hi there, I'm Fazil 👋
 
 - 🔭 I’m interested in web technologies and 3D
-- 🌱 I’m currently learning Babylon.js and Rust
+- 🌱 I’m currently learning Rust and shader programming
 - 😄 Pronouns: he/him
 
 <!--
